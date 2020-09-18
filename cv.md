@@ -3,7 +3,7 @@
 ## 1. Alexandra Sergeychik
 
 ## 2. Contacts
-* [homepage](http://aliaxandra.com/)
-* [email](mailto:aliaxandra@gmail.com)
-* [facebook](https://www.facebook.com/sasha.sergeichik) 
-* [instagram](https://www.instagram.com/aliaxandra).
+* [Homepage](http://aliaxandra.com/)
+* [Email](mailto:aliaxandra@gmail.com)
+* [Facebook](https://www.facebook.com/sasha.sergeichik) 
+* [Instagram](https://www.instagram.com/aliaxandra)
