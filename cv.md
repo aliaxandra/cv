@@ -13,3 +13,10 @@ My goal is expand my career path from freelance graphic-, web- and ui/ux-designe
 
 ## 4. Skills
 Novice HTML5, CSS, JS, Git skills in regards to real projects. For tools, I am proficient with a bunch of Adobe applications and competent with Sketch and Figma.
+
+## 5. Code examples
+    * [Immigration Research](http://aliaxandra.com/immigration-research2/) (on [GitHub](https://github.com/aliaxandra/immigration-research2)): HTML, CSS, JS
+    * [Sasha is](https://sasha-is.netlify.app/index.html) (on [Github](https://github.com/aliaxandra/cs50-project-homepage)): HTML, CSS, JS
+    *  [Finance](https://github.com/aliaxandra/cs50-project-finance): HTML, CSS, Python, SQL
+
+
