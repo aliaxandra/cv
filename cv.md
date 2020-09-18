@@ -18,3 +18,9 @@ Novice HTML5, CSS, JS, Git skills in regards to real projects. For tools, I am p
 * [Immigration Research](http://aliaxandra.com/immigration-research2/) (on [GitHub](https://github.com/aliaxandra/immigration-research2)): HTML, CSS, JS
 * [Sasha is](https://sasha-is.netlify.app/index.html) (on [Github](https://github.com/aliaxandra/cs50-project-homepage)): HTML, CSS, JS
 * [Finance on Github](https://github.com/aliaxandra/cs50-project-finance): HTML, CSS, Python, SQL
+
+## 6. Education
+* Codecademy [HTML, CSS, JS, Git and a bunch of other cources](https://www.codecademy.com/users/aliaxandra/achievements)
+* [CS50 Harvard](https://cs50.harvard.edu/x/2020/) (on Final Projest Stage)
+* [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) on Udemy (Sections 1-22)
+* Pedagogical Psychology bachelor
