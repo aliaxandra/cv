@@ -24,3 +24,8 @@ Novice HTML5, CSS, JS, Git skills in regards to real projects. For tools, I am p
 * [CS50 Harvard](https://cs50.harvard.edu/x/2020/) (on Final Projest Stage)
 * [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) at Udemy (Sections 1-22)
 * Pedagogical Psychology bachelors
+
+## 7. Experience
+* [GitHub Reposetories](https://github.com/aliaxandra)
+* [Design portfolio](https://www.behance.net/aliaxandra)
+* [Illustrations](https://www.instagram.com/aliaxandra/)
