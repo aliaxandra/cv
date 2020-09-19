@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  background-color: black;
+  color: white;
+}
+
+.wrapper {
+      width: 800px;
+      margin: 0 auto;
+}
+
+img {
+  max-width: 800px;
+}
