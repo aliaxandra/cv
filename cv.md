@@ -31,7 +31,8 @@ Novice HTML5, CSS, JS, Git skills in regards to real projects. For tools, I am p
 * [Illustrations](https://www.instagram.com/aliaxandra/)
 
 ## 8. English
-* [EPAM Taest Result] on 10.09.2020: B1 (Intermediate)
+* **EPAM Taest Result** on 10.09.2020: B1 (Intermediate)
+
 I am constantly reading and watching on English (technical manuals included). Also me and my partner have been traveling to Asia and Europe nine month of the year for the past six years now (before COVID-19), so, I have basic communicational skills in English also, though I still have a lot to learn So last year in isolation I have been [learning English in Duolingo](https://www.duolingo.com/profile/sasha.serge), currently I earned 14748 experience points.
 
 Thank you for your attention!
